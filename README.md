@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @FahimU123
-- 👀 I’m interested in iOS Development and Cybersecurity
-- 🌱 I’m currently learning iOS Development and Cybersecurity
+- 👋 Hi, I’m @FahimU123!
+
+- 👀 Interests: iOS Development & Cybersecurity
+- 🌱 Currently Learning: Swift, ARKit
+- 🌍 Language Enthusiast: Exploring the beauty of Arabic
+- 🏀 Basketball Fan: Detroit Pistons all the way!
 
   
 
