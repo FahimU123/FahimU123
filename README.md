@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FahimU123!
 
 - 👀 Interests: iOS Development & Cybersecurity
-- 🌱 Currently Learning: Swift, ARKit
+- 🌱 Currently Learning: Swift, ARKit, RealityKit
 - 🌍 Language Enthusiast: Exploring the beauty of Arabic
 - 🏀 Basketball Fan: Detroit Pistons all the way!
 
