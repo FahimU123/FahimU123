@@ -1,4 +1,4 @@
-# I code - Supreme High Chancellor of Syntaxical Shenanigans and Unexpected Runtime Catastrophes (specializing in Swift)
+# I Code - Supreme High Chancellor of Syntaxical Shenanigans and Unexpected Runtime Catastrophes (specializing in Swift)
 
 
 
