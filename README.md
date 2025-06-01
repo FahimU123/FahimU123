@@ -1,6 +1,6 @@
-# I code
+# I code - Supreme High Chancellor of Syntaxical Shenanigans and Unexpected Runtime Catastrophes (specializing in Swift)
 
-Supreme High Chancellor of Syntaxical Shenanigans and Unexpected Runtime Catastrophes (specializing in Swift)
+
 
 ![Sometimes good, sometimes shit](sometimes-maybe-good.gif)
 
