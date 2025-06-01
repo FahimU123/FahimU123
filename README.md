@@ -1,4 +1,4 @@
-# I Code - I Code - Supreme High Chancellor of Victory Royale Aces & Loot (Swift Specialist)
+# I Code - Supreme High Chancellor of Victory Royale Aces & Loot (Swift Specialist)
 
 
 
