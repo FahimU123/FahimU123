@@ -8,7 +8,7 @@ Supreme High Chancellor of Syntaxical Shenanigans and Unexpected Runtime Catastr
 
 # Currently Learning
 
-* Mind Control for Swift Code: 'Cause sometimes, you just gotta wish the code into working.
+* Mind Control for Swift Code: Sometimes you gotta wish the code into working.
 * How to Ask Google the Right Questions: Super important for when the first 20 answers aren't helping.
 * The Art of Deleting Stuff (Safely): Learning how to remove whole folders without blowing up the whole project.
 * Why Apps Don't Do What I Tell Them To: This usually involves a lot of confusing problems.
